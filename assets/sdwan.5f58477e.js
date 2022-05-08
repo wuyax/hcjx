@@ -1,1 +1,0 @@
-import{_ as e}from"./index.fdf81355.js";import{o,c as t}from"./vendor.de359b57.js";const s={name:"sdwan",components:{},model:{},props:{},data(){return{}},computed:{},watch:{},created(){},mounted(){},beforeDestroy(){},methods:{}},r={class:""};function a(n,c,d,p,m,_){return o(),t("div",r," sdwan ")}var u=e(s,[["render",a]]);export{u as default};
